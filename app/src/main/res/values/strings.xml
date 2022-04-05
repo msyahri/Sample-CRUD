@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CRUD Data</string>
+    <string name="about">Tentang</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_activity_main_menu">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_komunitas">Komunitas</string>
+    <string name="title_profil">Profil</string>
+    <string name="keluar">Keluar</string>
+
+
+    <string-array name="listFakultas">
+        <item>Ilmu Komputer</item>
+        <item>Bisnis dan Ilmu Sosial</item>
+    </string-array>
+    <string-array name="listProdi">
+        <item>Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Teknologi Informasi</item>
+        <item>Bisnis Digital</item>
+        <item>Ilmu Komunikasi</item>
+        <item>Bahasa Inggris</item>
+    </string-array>
+</resources>
